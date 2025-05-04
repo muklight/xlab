@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/code/wujunhao_hw1/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c D:\\code\\wujunhao_hw1\\algebra\\src\\algebra.c",
+  "file": "D:/code/wujunhao_hw1/algebra/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "D:/code/wujunhao_hw1/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\main.dir\\src\\main.c.obj -c D:\\code\\wujunhao_hw1\\algebra\\src\\main.c",
+  "file": "D:/code/wujunhao_hw1/algebra/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]
